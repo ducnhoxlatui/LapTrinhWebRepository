@@ -52,7 +52,7 @@
 
 			<form>
 				<p>This is your profile page, hello <%out.write(name);%></p>
-				<p>To return to main, <a href="https://ducnhoxlatui.github.io/LapTrinhWebRepository/"> click this</a></p>
+				<p>To return to main, <a href="https://ducnhoxlatui.github.io/ducnhoxlatui-LapTrinhWebRepository/index.html"> click this</a></p>
 			</form>
 		</div>
 	</section>
