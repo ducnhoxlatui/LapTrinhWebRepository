@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="demomvc">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="example-jsp_war.war">
+      <element id="artifact" artifact-name="example-jsp:war exploded" />
+    </root>
+  </artifact>
+</component>
