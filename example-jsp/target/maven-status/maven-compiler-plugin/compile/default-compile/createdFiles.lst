@@ -1,2 +1,3 @@
 vn\demo\business\User.class
+vn\demo\data\UserDB.class
 vn\demo\servlet\EmailListServer.class

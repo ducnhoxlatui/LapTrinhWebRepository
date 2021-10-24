@@ -61,6 +61,7 @@
             </div>
 
                     <form action="" method="get">
+                        <p></p>
                         <label>Email:</label>
                         <span>${user.email}</span><br>
                         <label>First Name:</label>
@@ -70,7 +71,7 @@
                         <p>To enter another email address, click on the Back button in your browser or the Return button show below.</p>
                         <input type="hidden" name="action" value="join">
                         <input type="submit" value="Sign out">
-                        <a href="https://ducnhoxlatui.github.io/ducnhoxlatui-LapTrinhWebRepository/">return to homepage</a>
+                        <a href="https://ducnhoxlatui.github.io/ducnhoxlatui-LapTrinhWebRepository./">return to homepage</a>
                     </form>
         </div>
     </section>
