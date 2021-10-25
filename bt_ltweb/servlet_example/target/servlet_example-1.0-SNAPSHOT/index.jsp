@@ -7,11 +7,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Hello</title>
-    <link rel="stylesheet" href="<c:url value="assets/bootstrap/css/bootstrap.min.css"/>">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
-    <link rel="stylesheet" href="<c:url value="assets/fonts/simple-line-icons.min.css"/>">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
-    <link rel="stylesheet" href="<c:url value="assets/css/vanilla-zoom.min.css"/>">
+    <link rel="stylesheet" href="<c:url value="assets/bootstrap/css/bootstrap.min.css"/>" >
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i" >
+    <link rel="stylesheet" href="<c:url value="assets/fonts/simple-line-icons.min.css"/>" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" >
+    <link rel="stylesheet" href="<c:url value="assets/css/vanilla-zoom.min.css"/>" >
 </head>
 <body>
 <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white clean-navbar" style="background: rgb(150,24,24);">
@@ -112,9 +112,9 @@
         <p>© 2021 Copyright Text</p>
     </div>
 </footer>
-<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="<c:url value="/assets/bootstrap/js/bootstrap.min.js"/>"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
-<script src="assets/js/vanilla-zoom.js"></script>
-<script src="assets/js/theme.js"></script>
+<script src="<c:url value="/assets/js/vanilla-zoom.js"/>"></script>
+<script src="<c:url value="/assets/js/theme.js"/>"></script>
 </body>
 </html>

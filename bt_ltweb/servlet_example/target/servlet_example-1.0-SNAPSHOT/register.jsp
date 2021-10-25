@@ -51,6 +51,7 @@
     <input type="submit" value="Register" class="margin_left">
 </form>
 </div>
+        </div>
 </section>
 </main>
 <footer class="page-footer dark">
@@ -94,9 +95,9 @@
         <p>© 2021 Copyright Text</p>
     </div>
 </footer>
-<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="<c:url value="assets/bootstrap/js/bootstrap.min.js"/>"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
-<script src="assets/js/vanilla-zoom.js"></script>
-<script src="assets/js/theme.js"></script>
+<script src="<c:url value="assets/js/vanilla-zoom.js"/>"></script>
+<script src="<c:url value="assets/js/theme.js"/>"></script>
 </body>
 </html>
